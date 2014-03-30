@@ -5,6 +5,11 @@ DressCode is a design software designed to allow novice programmers to produce c
 
 This is software is consired alpha.
 
+Run the software by typing
+```
+$ cd resources/build/jar
+$ java -jar DressCode.jar
+```
 
 ressources
 ----------
